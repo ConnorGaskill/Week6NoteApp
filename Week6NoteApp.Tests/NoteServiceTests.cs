@@ -1,5 +1,6 @@
 using Xunit;
 using System.Collections.Generic;
+using Week6NoteApp.Services;
 
 public class NoteServiceTests
 {
